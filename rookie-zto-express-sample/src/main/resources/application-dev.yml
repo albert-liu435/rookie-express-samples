@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+
+
+
+express:
+  zto:
+    app-key: 2ea5a9a37311aa80558d309ca
+    app-secret: 17f44dse92567fad319d1bc60b2f9ea69204
+    url: https://japi-test.zto.com/
